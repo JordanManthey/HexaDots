@@ -1,6 +1,6 @@
 # HexaDots
 
-Inspired by the popular mobile game [Dots](https://www.dots.co/dots/). Connect dots of the same color that are adjacent on a hexagonal axis. Developed with the [Phaser 3](https://phaser.io/phaser3) engine.
+Inspired by the popular mobile game [Dots](https://www.dots.co/dots/). Connect dots of the same color that are adjacent on a hexagonal axis. Developed with the [Phaser 3](https://phaser.io/phaser3) framework.
 
 Change game settings in /src/constants.js under GAME_SETTINGS.
 
